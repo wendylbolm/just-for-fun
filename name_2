@@ -1,0 +1,8 @@
+puts "Hello, what is your name?"
+
+gets
+
+name = gets.chomp
+
+puts "Hello, #{name}. Nice to meet you."
+
